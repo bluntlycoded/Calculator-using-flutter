@@ -1,7 +1,7 @@
 
 # Flutter Calculator App
 
-![Calculator App](screenshot.png)
+![Calculator App](./screenshot.png)
 
 This is a simple calculator app built using Flutter. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
