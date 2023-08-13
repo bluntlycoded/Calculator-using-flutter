@@ -49,9 +49,6 @@ To run this app on your local machine, follow these steps:
 - Press the "=" button to see the result of the calculation.
 - Use the "C" button to clear the current input.
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot.png)
 
 ## Contributions
 
